@@ -1,1 +1,1 @@
-include ':firefdskit'
+include ':xposed', ':app', ':core'

@@ -1,0 +1,12 @@
+<resources>
+    <color name="secondaryColor">#0f94b4</color>
+    <color name="secondaryLightColor">#5bc5e6</color>
+    <color name="secondaryDarkColor">#006684</color>
+    <color name="navigationbar_default_color_1">#fff0f0f0</color>
+    <color name="navigationbar_default_color_2">#ffe6e6e6</color>
+    <color name="navigationbar_default_color_3">#ffe6e6f0</color>
+    <color name="navigationbar_default_color_4">#fff0f0e6</color>
+    <color name="navigationbar_default_color_5">#fff0e6e6</color>
+    <color name="navigationbar_default_color_6">#fff0e6f0</color>
+    <color name="navigationbar_default_color_7">#fff0ebe6</color>
+</resources>

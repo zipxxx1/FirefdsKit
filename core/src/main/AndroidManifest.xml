@@ -1,0 +1,15 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sb.firefds.pie.firefdskit.core">
+
+    <application>
+        <receiver
+            android:name="sb.firefds.pie.firefdskit.receivers.WanamRebootReceiver"
+            android:exported="false" />
+
+        <activity
+            android:name="sb.firefds.pie.firefdskit.activities.WanamRebootActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/rebooting_"
+            android:theme="@style/Theme.AppCompat.Dialog" />
+    </application>
+</manifest>

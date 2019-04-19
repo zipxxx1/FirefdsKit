@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reboot_recovery">מצב Recovery</string>
+    <string name="reboot_download">מצב Download</string>
+    <string name="screenshot">צילום מסך</string>
+    <string name="reboot_confirm_recovery">הפעלה מחדש למצב Recovery</string>
+    <string name="reboot_confirm_download">הפעלה מחדש למצב Download</string>
+    <string name="switchUser">החלפת משתמש</string>
+    <string name="restartUI">הפעלה מחדש של SystemUI</string>
+    <string name="flashlight">פנס</string>
+    <string name="flashlight_on">דלוק</string>
+    <string name="flashlight_off">כבוי</string>
+    <string name="screen_record">הקלטת מסך</string>
+</resources>
